@@ -39,6 +39,7 @@ hide-create-button
 hide-crowdfunding-box
 hide-endscreen-cards
 hide-watermark
+hide-shorts-component
 microg-support
 minimized-playback
 old-quality-layout
